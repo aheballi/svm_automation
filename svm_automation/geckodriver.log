@@ -1,0 +1,12 @@
+1516629042872	geckodriver	INFO	geckodriver 0.19.1
+1516629042879	geckodriver	INFO	Listening on 127.0.0.1:46196
+1516629044162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.buM0VzFSyc2j"
+Error: GDK_BACKEND does not match available displays
+1516629157579	geckodriver	INFO	geckodriver 0.19.1
+1516629157584	geckodriver	INFO	Listening on 127.0.0.1:38137
+1516629158883	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7gxJPns0ejad"
+Error: GDK_BACKEND does not match available displays
+1516629822649	geckodriver	INFO	geckodriver 0.19.1
+1516629822652	geckodriver	INFO	Listening on 127.0.0.1:42594
+1516629824043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.034qkovehul4"
+Error: GDK_BACKEND does not match available displays

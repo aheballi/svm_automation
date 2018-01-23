@@ -21,7 +21,7 @@ class SeleniumWebdriver:
     # fc['binary'] = 'tools/firefox/firefox-bin'
 
     #driver = webdriver.Firefox(executable_path=r'/home/anusha/SVM/geckodriver/geckodriver', firefox_profile=fp)
-    driver = webdriver.Firefox(executable_path=r'/home/anusha/SVM/geckodriver/geckodriver',firefox_profile=fp)
+    driver = webdriver.Firefox(executable_path=r'/home/anusha/django-first-sample/svm_automation/geckodriver/geckodriver',firefox_profile=fp)
     #driver_withoutdownloadskip = webdriver.Firefox(executable_path=r'/home/anusha/SVM/geckodriver/geckodriver')
 
 
