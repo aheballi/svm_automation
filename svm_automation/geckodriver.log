@@ -343,3 +343,7 @@ Error: GDK_BACKEND does not match available displays
 1516692294806	addons.manager	DEBUG	Calling shutdown blocker for PreviousExperimentProvider
 1516692294815	addons.manager	DEBUG	Async provider shutdown done
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516786656528	geckodriver	INFO	geckodriver 0.19.1
+1516786656532	geckodriver	INFO	Listening on 127.0.0.1:58661
+1516786657928	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5zXrcMV8kyxt"
+Error: GDK_BACKEND does not match available displays
